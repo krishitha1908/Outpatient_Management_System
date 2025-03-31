@@ -1,0 +1,5 @@
+userid,password,role
+2,ks,nurse
+admin,admin123,admin
+doctor,doctor123,doctor
+admin2,hello123,admin

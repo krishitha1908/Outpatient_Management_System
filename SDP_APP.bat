@@ -1,0 +1,1 @@
+streamlit run .\sdpx_final.py      
